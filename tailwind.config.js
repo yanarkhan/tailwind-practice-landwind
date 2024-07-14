@@ -15,6 +15,7 @@ module.exports = {
         borderColor: "#E5E7EB",
         darkGrey: "#111928",
         brightGrey: "#6B7280",
+        secBrightGrey: "#F9FAFB",
       },
       boxShadow: {
         custom: "0 4px 8px #c084fc",
